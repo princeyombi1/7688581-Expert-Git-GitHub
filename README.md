@@ -54,6 +54,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+---
+OpenClassromms - OC
+---
+
 * **Non spécifié**
 
 ## License
